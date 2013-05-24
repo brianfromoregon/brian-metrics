@@ -1,2 +1,17 @@
-This file was created by IntelliJ IDEA 12.1.3 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.1.3 for binding GitHub repository
+Demo of Yammer Metrics.
+
+Code
+----
+
+![code](docs/intellij.png)
+
+VisualVM
+--------
+
+![visualvm](docs/visualvm.png)
+
+Notes
+-----
+
+Built with Gradle.
+
