@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="metrics-core-3.0.0-BETA3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-24/filestore/com.codahale.metrics/metrics-core/3.0.0-BETA3/bundle/f52d10e6c040f2777e7bfefc7b578e3cd6caee7e/metrics-core-3.0.0-BETA3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-24/filestore/com.codahale.metrics/metrics-core/3.0.0-BETA3/source/691066b10b73db987aa262f82f698aa4894cf1d0/metrics-core-3.0.0-BETA3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
